@@ -1,3 +1,10 @@
+**CEO/founder at [Deepnight Games](https://deepnight.net)** 
+
+ - 🛠 Former lead & creator of [DeadCells](https://dead-cells.com) 
+ - 🛠 Making [**LEd editor**](https://github.com/deepnight/led) and some *secret games
+ - 💬 I usually prefer making games to playing them
+ - 💬 I love game jams
+
 ### Hi there 👋
 
 <!--
