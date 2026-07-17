@@ -9,5 +9,5 @@ Former lead dev & director of [Dead Cells](https://dead-cells.com) at **Motion T
  - 🔥 Creator of [Nuclear Blaze](https://store.steampowered.com/app/1662480/Nuclear_Blaze/)
  - 💬 I usually prefer making games to playing them
  - 💬 I love game jams
- - 🐥 Twitter: [@deepnightFR](https://twitter.com/deepnightfr)
+ - 🌐 [Website](https://deepnight.net) | [Bluesky](https://bsky.app/profile/deepnight.net) | [X](https://twitter.com/deepnightfr)
  
